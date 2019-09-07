@@ -2,3 +2,4 @@
 this is scend
 this is third
 Git has a mutable index called stage.
+Git tracks changes.
